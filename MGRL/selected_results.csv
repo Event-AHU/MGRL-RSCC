@@ -1,0 +1,2 @@
+selection,dataset,temperature,logged_split,epoch,global_step,bleu1,bleu2,bleu3,bleu4,meteor,rougeL,cider
+original_best_named_run,LEVIR_CC,0.8,val_epoch_end,35,38340,0.8589687086821848,0.7765397660053361,0.7062906989975942,0.6477621571376557,0.4060666417418589,0.7556051268300862,1.3975073497567692
