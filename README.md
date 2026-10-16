@@ -62,8 +62,3 @@ Custom paths can be supplied through `DATA_FOLDER`, `LIST_PATH`, `TOKEN_FOLDER`,
 - `kg_reward_utils.py`: knowledge-graph processing and matching utilities.
 - `run_mgrl.sh`: main experiment configuration.
 
-## Notes
-
-`selected_results.csv` contains historical experiment results, not a new evaluation of this release. Results may vary across runs. Saved checkpoints contain model weights, not the complete state required by the existing resume-training branch.
-
-Upstream licenses and third-party attribution notices are preserved in `LICENSE.txt` and the evaluation modules.
